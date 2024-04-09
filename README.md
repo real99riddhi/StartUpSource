@@ -196,4 +196,51 @@ We are a team dedicated to providing quality content and services to our users. 
                <p>If you have any questions or inquiries, feel free to <a href="contact.html">contact us</a>.</p>
     </div>
 </body>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #fff; /* White background */
+            color: #333; /* Dark grey text */
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        p {
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Contact Us</h1>
+        <p>Feel free to reach out to us using the linkedin contact information below:</p>
+        
+        <ul>
+            <li>Riddhi Sharma: http://www.linkedin.com/in/riddhi-sharma-8266b8283</li>
+            <li>Riddhima Bisht: https://www.linkedin.com/in/riddhima-bisht-b3374a2a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app</li>
+            <li>Rishika Khandelwal:https://www.linkedin.com/in/rishika-khandelwal-209077286?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app</li>
+        </ul>
+
+       
+
+    </div>
+</body>
+</html>
+
 </html>
