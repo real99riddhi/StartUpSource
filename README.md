@@ -134,3 +134,66 @@ We are a team dedicated to providing quality content and services to our users. 
     </footer>
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #000; /* Black background */
+            color: #fff; /* White text */
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        h1, h2 {
+            text-align: center;
+        }
+
+        p {
+            line-height: 1.6;
+        }
+
+        .team-member {
+            margin-bottom: 40px;
+        }
+
+        .team-member img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 50%;
+            display: block;
+            margin: 0 auto 10px;
+        }
+
+        .team-member h3 {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>About Us</h1>
+        <p>Welcome to our company! We are a team of passionate individuals dedicated to creating a place where everyone can find resources for their startup idea</p>
+        <h2>Our Team</h2>
+           
+            <h3>Riddhi Sharma</h3>
+       
+            <h3>Riddhima Bisht</h3>
+
+            <h3>Rishika Khandelwal</h3>
+
+            
+               <p>If you have any questions or inquiries, feel free to <a href="contact.html">contact us</a>.</p>
+    </div>
+</body>
+</html>
